@@ -1,0 +1,12 @@
+[project]
+name = "ComfyUI-Color-Light-FineTune"
+description = "Color & light grading node for ComfyUI with a built-in live preview, color wheels, per-zone color balance, tone curves, film grain and picked-color adjustments; works with images and videos (frame batches)."
+version = "1.0.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/Konstantin-Raw-Fantasy/ComfyUI-Color-Light-FineTune"
+
+[tool.comfy]
+DisplayName = "Color-Light-FineTune"
